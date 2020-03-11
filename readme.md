@@ -1,6 +1,8 @@
 # Titanic: Machine Learning from Disaster
 ### by Javier Alonso
 
+Results also publishe in Medium https://medium.com/@canceleiro/titanic-machine-learning-from-disaster-2a95fca25390
+
 ## Installations required
 
 The project contains a jupyter notebook, so that´s the only necessary software you´d need. Be sure to have installed on in numpy, pandas,  matplotlib and seaborn
